@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashankphiske
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently persuing B.Tech in Information Technology
+- 🌱 I’m currently pursuing B.Tech in Information Technology
 - 📫 To contact me ,Here's my gmail :shashankphiskework@gmail.com
 
 <!---
