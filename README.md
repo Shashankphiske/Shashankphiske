@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashankphiske
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Web Development, Game Development and Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing B.Tech in Information Technology
 - 📫 To contact me ,Here's my gmail :shashankphiskework@gmail.com
 
