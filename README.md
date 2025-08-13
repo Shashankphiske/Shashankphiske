@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shashankphiske
 - 👀 I’m interested in Web Development, Game Development, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing B.Tech in Information Technology
-- 📫 To contact me ,Here's my gmail :shashankphiskework@gmail.com
+- 📫 To contact me, here's my Gmail: shashankphiskework@gmail.com
 
 <!---
 Shashankphiske/Shashankphiske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,13 @@ You can click the Preview link to take a look at your changes.
 ### 🏆 Achievements
 
 - 🥉 **Code Wars (3rd Place)** – DSA Hackathon (Sanjivani Tech Fest 2025)
-- 🧑‍💻 **Internships** – Twinsistech, Celebal Technologies
+
+---
+
+### 💼 Internships
+
+- **Twinsistech** – MERN STACK development intern
+- **Celebal Technologies** – NodeJS intern
 
 ---
 
@@ -63,8 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ShashankPhiske/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankphiske)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shashankphiskework@email.com
-
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:shashankphiskework@gmail.com)
 
 ---
 
