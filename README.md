@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 ### 🏆 Achievements
 
 - 🥉 **Code Wars (3rd Place)** – DSA Hackathon (Sanjivani Tech Fest 2025)
+- 🥉 **Sanjivani Code Kesari (3rd Place)** – DSA Competition
 
 ---
 
