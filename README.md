@@ -54,11 +54,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📈 GitHub Overview
+### 📊 GitHub Activity
 
-- 🔢 **Public Repos:**  `![repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/shashankphiske)`
-- 👥 **Followers:** `![followers](https://img.shields.io/github/followers/shashankphiske?label=Followers&style=flat)`
-- ⭐ **Stars:** `![stars](https://img.shields.io/github/stars/shashankphiske?affiliations=OWNER%2CCOLLABORATOR)`
+- 💻 MERN Stack & Backend focused
+- 🧠 Strong in DSA & problem solving
+- 🚀 Active contributor & project builder
+- 🎮 Exploring game dev & AI
 
 ---
 
