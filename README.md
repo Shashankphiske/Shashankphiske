@@ -54,19 +54,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashankphiske&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shashankphiske&theme=radical" />
-</p>
+- 🔢 **Public Repos:**  `![repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/shashankphiske)`
+- 👥 **Followers:** `![followers](https://img.shields.io/github/followers/shashankphiske?label=Followers&style=flat)`
+- ⭐ **Stars:** `![stars](https://img.shields.io/github/stars/shashankphiske?affiliations=OWNER%2CCOLLABORATOR)`
 
 ---
 
