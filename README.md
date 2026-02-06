@@ -57,11 +57,16 @@ You can click the Preview link to take a look at your changes.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashankphiske&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashankphiske&theme=radical" />
+</p>
 
 ---
 
