@@ -60,9 +60,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankphiske&layout=compact&theme=radical" alt="langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shashankphiske&show_icons=true&theme=radical&cache_seconds=1800" />
+
 
 ---
 
